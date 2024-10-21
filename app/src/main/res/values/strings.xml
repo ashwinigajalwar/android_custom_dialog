@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Implement_Custom_Dialog</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert_button">Convert Button</string>
+    <string name="display_currency">Display Currency</string>
+    <string name="close">Close</string>
+    <string name="china">China</string>
+    <string name="uk">Uk</string>
+    <string name="usa">Usa</string>
+    <string name="canada">Canada</string>
+    <string name="ok">ok</string>
+
+</resources>
